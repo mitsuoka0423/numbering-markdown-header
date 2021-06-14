@@ -1,0 +1,26 @@
+{
+  "name": "numbering-markdown-header",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tmitsuoka0423/numbering-markdown-header.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmitsuoka0423/numbering-markdown-header/issues"
+  },
+  "homepage": "https://github.com/tmitsuoka0423/numbering-markdown-header#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "marked": "^2.0.7",
+    "turndown": "^7.0.0"
+  }
+}
